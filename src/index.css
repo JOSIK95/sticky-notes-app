@@ -5,6 +5,7 @@
 body {
   margin: 0;
   padding: 0;
+  background: url(https://images.unsplash.com/photo-1691441131439-19b4587e30d5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1632&q=80);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }

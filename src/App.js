@@ -12,7 +12,7 @@ class App extends Component {
         doesMatchSearch: true
       }
     ],
-    searchText: "search"
+    searchText: ""
   };
 
   addNote = () => {
